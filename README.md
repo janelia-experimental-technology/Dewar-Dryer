@@ -45,7 +45,7 @@ Applications:
 Opportunity: Free to make for Non-Profit Research by downloading the design here. See included hardware license.
 Rights and designs available for Commercial License. Janelia makes no endorsements or guarantees of licensee products.
 For inquiries, please contact innovation@janelia.hhmi.org and reference this repository.
-To cite the designs, please use DOI: https://doi.org/
+To cite the designs, please use DOI: https://doi.org/10.25378/janelia.31956207
 
 
 
